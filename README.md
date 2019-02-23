@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for JHU's Data Science Specialization 
+Hi my name is Stephan and this is my repository for JHU's Data Science Specialization. 
